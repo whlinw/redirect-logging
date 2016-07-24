@@ -1,0 +1,25 @@
+{
+  "[Errno 8]": 2,	// _ssl.c:510: EOF occurred in violation of protocol
+  "doesn't match": 2,	// hostname doesn't match. e.g. hostname 'nemadgang.dk' doesn't match '*.nemadgang.dk'
+  "Unknown": 1,
+  "Bad Request": 2,
+  "[Errno 111]": 2,
+  "Precondition Failed": 3,
+  "[Errno 104]": 1,	// Connection reset by peer
+  "[Errno 1]": 18,	// _ssl.c:510: error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure
+  "Redirect exceed limit": 1,
+  "Gateway Time-out": 1,
+  "Internal Server Error": 4,
+  "[Errno -5]": 32,	// No address associated with hostname
+  "[Errno 110]": 9,	// Connection timed out
+  "timed out": 5,
+  "[SSL: CERTIFICATE_VERIFY_FAILED]": 4,	// certificate verify failed (_ssl.c:590)
+  "Origin": 3,
+  "[Errno -2]": 272,	// Name or service not known
+  "Forbidden": 38,
+  "Bad Behavior": 1,
+  "Not Found": 11,
+  "Service Temporarily Unavailable": 2,
+  "Total": 415,
+  "Bad Gateway": 1
+}
